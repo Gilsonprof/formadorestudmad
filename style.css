@@ -1,13 +1,16 @@
-#titulo-pricipal{
+#titulo-pricipal {
     color : red;
     text-align: center;
     font-size: 40px;
 }
-p{
-    color: green;
+.paragrafo1 {
+    color: rgb(34, 228, 34);
     text-align: justify;
 }
-p{
-    color: green;
+.paragrafo2 {
+    color: rgb(60, 0, 128);
     text-align: justify;
+}
+body{
+    background-color: rgb(220, 235, 15);
 }
