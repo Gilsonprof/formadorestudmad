@@ -20,8 +20,9 @@ p{
     line-height: 1.5;
 }
 .paragrafo2 {
-    color: rgba(243, 240, 247, 0.116);
     text-align: justify;
+    color: #f4e5c9;
+    line-height: 1.5;
 }
 #banner{
     width: 800px ; /*largura */
