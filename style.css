@@ -10,8 +10,7 @@ p{
 }
 
 #titulo-pricipal {
-    color : rgba(194, 202, 216, 0.761);
-    text-align: center;
+    color : #9C7BA6;
     font-size: 40px;
 }
 .paragrafo1 {
@@ -25,9 +24,9 @@ p{
     line-height: 1.5;
 }
 #banner{
-    width: 800px ; /*largura */
-    display: block;
-    margin: auto;
+    width: 15% ; /*largura */
+    padding: 5px;
+    margin: 10px;
     border-radius: 10px;
 }
 
