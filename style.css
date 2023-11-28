@@ -28,6 +28,7 @@ p{
     width: 800px ; /*largura */
     display: block;
     margin: auto;
+    border-radius: 10px;
 }
 
 .imgesquerda{
